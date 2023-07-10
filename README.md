@@ -4,11 +4,11 @@ this project is about using the spotipy api to add songs from a table format to 
 
 ## Usage
 1. Get your spotify credentials on https://developer.spotify.com/dashboard
-   Create App
-   Go to settings
-   find your credentials
-   put them into config.py.sample file
-   rename config.py.sample -> config.py
+   - Create App
+   - Go to settings
+   - find your credentials
+   - put them into config.py.sample file
+   - rename config.py.sample -> config.py
 
 2. install the required packages by
    pip install -r requirements.txt
