@@ -1,0 +1,5 @@
+scope = 'playlist-modify-public'
+username = '<your username>'
+client_id = '<your client id>'
+client_secret = '<your client_secret>'
+redirect_uri = 'http://127.0.0.1:8080/'
